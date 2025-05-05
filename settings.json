@@ -1,0 +1,18 @@
+{
+    "editor.stickyScroll.enabled": false,
+    "editor.lineHeight": 1.5,
+    "editor.fontSize": 13,
+    "editor.tabSize": 2,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+    "window.menuBarVisibility": "hidden",
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "chat.commandCenter.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.navigationControl.enabled": false,
+    "workbench.colorTheme": "GitHub Dark Default",
+}
