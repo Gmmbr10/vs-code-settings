@@ -14,5 +14,7 @@
     "chat.commandCenter.enabled": false,
     "workbench.layoutControl.enabled": false,
     "workbench.navigationControl.enabled": false,
-    "workbench.colorTheme": "GitHub Dark Default",
+    "explorer.compactFolders": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "material-icon-theme"
 }
